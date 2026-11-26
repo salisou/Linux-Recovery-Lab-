@@ -30,3 +30,7 @@
 `fsck` verifica filesystem e, a seconda delle opzioni e delle risposte, può modificarli. Le riparazioni non devono essere improvvisate su filesystem montati in scrittura. In questo corso si studia prima la diagnostica e si pianificano eventuali controlli correttivi solo in VM, con snapshot e filesystem correttamente smontato.
 
 Non usare `mkfs`, `dd` o strumenti di partizionamento per simulare guasti su dischi reali.
+
+## Illustrazione del modulo
+
+![05-filesystem-e-dischi - schema didattico](../images/05-filesystem-e-dischi.svg)
