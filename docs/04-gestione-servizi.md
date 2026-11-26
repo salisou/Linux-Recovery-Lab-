@@ -25,3 +25,7 @@ I comandi precedenti sono principalmente di consultazione. Operazioni come `star
 ## Nota sulle distribuzioni
 
 Non presumere che un servizio abbia lo stesso nome o sia installato in tutte le versioni. Per esempio, il servizio SSH può essere denominato `ssh` su Debian/Kali e Ubuntu. Verificare sempre sul sistema reale.
+
+## Illustrazione del modulo
+
+![04-gestione-servizi - schema didattico](../images/04-gestione-servizi.svg)
