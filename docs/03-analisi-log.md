@@ -59,3 +59,7 @@ L'operatore `>` crea o sovrascrive il file di destinazione. Usare `>>` per aggiu
 ## Esercizio
 
 Dato un log di laboratorio, estrai le righe ERROR, salvale in un file e conta quante volte compare ciascun messaggio. Lavora su una copia dei log, non alterare i log originali.
+
+## Illustrazione del modulo
+
+![03-analisi-log - schema didattico](../images/03-analisi-log.svg)
