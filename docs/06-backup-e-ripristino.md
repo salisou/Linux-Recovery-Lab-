@@ -38,3 +38,7 @@ Esercitati copiando file di prova in una directory dedicata all'interno della VM
 - I file recuperati superano il controllo hash?
 - La connettività funziona nella rete di laboratorio?
 - La documentazione dell'incidente è stata aggiornata?
+
+## Illustrazione del modulo
+
+![06-backup-e-ripristino - schema didattico](../images/06-backup-e-ripristino.svg)
