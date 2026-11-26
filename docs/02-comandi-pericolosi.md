@@ -44,3 +44,7 @@ Prima di autorizzare un comando, rispondi:
 - Per verificare i dispositivi: `lsblk -f` e `findmnt`.
 
 Queste alternative non rendono automaticamente sicura un'operazione successiva: occorre comunque verificare ogni argomento.
+
+## Illustrazione del modulo
+
+![02-comandi-pericolosi - schema didattico](../images/02-comandi-pericolosi.svg)
