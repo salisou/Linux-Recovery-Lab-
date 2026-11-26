@@ -40,3 +40,7 @@ Non eseguire questi esempi. La loro presenza in questa lezione serve esclusivame
 ## Esercizio
 
 Spiega perché è necessario controllare `pwd`, `ls -lah` e il percorso completo prima di eliminare un file. Indica almeno tre precauzioni da adottare prima di una modifica amministrativa.
+
+## Illustrazione del modulo
+
+![01-prevenzione-incidenti - schema didattico](../images/01-prevenzione-incidenti.svg)
